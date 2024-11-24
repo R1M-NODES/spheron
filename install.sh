@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 clear
 BINARY_NAME="fizz"
 VERSION="latest"
