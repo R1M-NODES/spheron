@@ -11,7 +11,7 @@ read -p "Введіть вашу адресу гаманця (WALLET_ADDRESS): "
 read -p "Введіть ваш юзер токен (USER_TOKEN): " USER_TOKEN
 
 # Fizz variables
-GATEWAY_ADDRESS="provider.cpu.gpufarm.xyz" # Provider domain: example = provider.devnetcsphn.com
+GATEWAY_ADDRESS="gwger.testnetcsphn.xyz" # Provider domain: example = provider.devnetcsphn.com
 GATEWAY_PROXY_PORT="8553" # Proxyport = 8553
 GATEWAY_WEBSOCKET_PORT="8544" # ws url of the gateway example= ws://provider.devnetcsphn.com:8544
 CPU_PRICE="4.5"
